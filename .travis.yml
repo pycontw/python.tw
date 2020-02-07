@@ -1,0 +1,12 @@
+language: python
+
+cache: pip
+
+python: "3.8"
+
+install: pip install -r requirements.txt
+
+script:
+- rm -rf build
+- lektor build --output-path build
+- ls build && ls build/index.html
