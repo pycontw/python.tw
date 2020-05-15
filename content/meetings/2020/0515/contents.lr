@@ -1,0 +1,48 @@
+title: PTSC meeting 2020/05/15
+---
+body:
+
+# PTSC 2020 May Meeting
+
+Github issue: https://github.com/pycontw/python.tw/issues/13
+
+Time: 2020/05/15 19:30 - 20:30
+
+Zoom link: https://us02web.zoom.us/j/83134541082?pwd=VHNiV2ZJaW5WS1RITVBPYlBzTythZz09
+
+Attendees:
+
+(**Voting members**)
+
+- **Yung-Yu Chen**
+- **Lloyd Huang**
+- **Tzer-jen Wei**
+- Jian-ding Tim Chen
+- Taihsiang Ho
+- **Tsungwei Marr Hu**
+- **PeterWolf**
+
+## Agenda
+
+* PTSC 參與 eID 修法連署: https://www.eid.tw
+  * [**lloyd**] PTSC 參與聯署有針對 Python 社群代表性的問題。Python 社群與 eID 的關聯性不強。
+  * [**tjw**] eID 修法並非 PTSC 所設定的議題。PTSC 未必具備代表 Python 社群表達意見的資格。以 PTSC 的身份支持議題是有問題的。
+  * [**marr**] PTSC 身為資訊社群的一份子，應該針對政府在 eID 問題上對資安作為處理的缺乏表達意見。但 PTSC 未必對 Python 社群具有代表性。PTSC 可以代表自己，與其它社會人士針對 eID 問題進行交流討論。
+  * [tim] PTSC 可以組織的身份宣傳 eID 修法的訊息討論。但以 PTSC 身份聯署與議題本身的連結則不明，不建議進行。
+  * [tai] 1) PTSC 在有實質溝通行為前，不能代表台灣 Python 社群、也不能代表 PyCon Taiwan 社群進行連署，但可以用 PTSC 自己的名義參與聯署。
+  * [**lloyd**] 同意若以資安的立場，或許 PTSC 具備一些薄弱的發言立場。但這不是很強的關聯性 (立場)。
+  * [**peter**] PTSC 基於資安與技術的立場應不足以聯名聯署 eID 修法。
+  * [**yyc**] 結論：PTSC 全員認為 PTSC 不具備 Python Taiwan 社群的代表性，支持 eID 修法，也不具備其它立場以團體的名義發表意見。但 PTSC 的成員可自由表達對此議題的看法與意見。
+* PyConTW 商標註冊
+  * [PyCon 在台灣已被他人取得註冊](https://twtmsearch.tipo.gov.tw/SS0/SS0201.jsp?showType=2&caseNo=XpJ13RyT4Vlk2cWdnVEp0UmFSeDhldmVtT1F3QT09&caseType=1&l6=zh_TW&isReadBulletinen_US=&isReadBulletinzh_TW=true)
+    * [tai] 申請人很可能是美國 PSF，委託台一事務所申請商標。
+      * 應與 PSF 確認是否如此。 -> yyc
+    * PTSC 是否需要申請 PyConTW 的商標？
+      * [**lloyd**] 應有需要。避免有它人註冊 PyConTW 或 PyCon Taiwan 的商標。
+      * [**marr**] 同意應由 PTSC 註冊 PyConTW 或 PyCon Taiwan 的商標。
+      * [**tjw**] 我們註冊 PyConTW 與 PyCon Taiwan 商標前應先與 PSF 商討。PSF 若同意或不反對，我們即應行註冊。
+      * [**peter**] 若 PyCon 是由 PSF 註冊，且 PSF 願意授權給我們在某個地理區域內使用 (e.g., 台澎金馬綠蘭)，那麼我們不需要註冊 PyConTW 或 PyCon Taiwan 的商標。反之，若前述兩條件有一不為真，則我們應取得 PyConTW 或 PyCon Taiwan (擇一或擇二) 的商標註冊。
+      * [tim] 我們現在實際使用的商標為何？PTSC 不是法人，那麼應由何人註冊？
+      * [tai] 若 PyCon 是由 PSF 註冊，因為 PSF 之前已經授權 PyConTW 使用 PyCon 的商標，因此我們不需要另行申請。之前授權給「在台灣辦 Python Conference 使用 PyCon TW 和 PyCon Taiwan」的說明頁面 https://www.python.org/psf/trademarks/pycon/
+    * [**yyc**] 結論：yyc 去聯絡 PSF，詢問他們是否在台灣註冊了 PyCon 商標，以及 PyConTW 使用該商標，與 PyConTW, PyCon Taiwan 的規則。
+    * [**lloyd**] 若 PyConTW 有法人化的規畫，那麼理應註冊 PyConTW/PyCon Taiwan 商標。
