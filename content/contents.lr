@@ -1,7 +1,75 @@
-title: Python in Taiwan
+title: Python Portal in Taiwan
 ---
 body:
 
-See [PyCon Taiwan].
+Welcome to Python and the Python community in Taiwan
 
-[PyCon Taiwan]: https://tw.pycon.org
+### Online resources
+
+* PotWiki: http://python.org.tw/
+* python.tw mailing list (google group): https://groups.google.com/forum/#!forum/pythontw
+* Python Taiwan Facebook group: https://www.facebook.com/groups/pythontw/
+
+### Events
+
+* PyCon Taiwan: https://tw.pycon.org/
+
+### User groups
+
+Area user groups (order north to south, west to east):
+* Taipei.py: https://www.meetup.com/Taipei-py/
+* Django Girls Taipei: https://djangogirls.org/taipei/
+* PyHUG: https://www.meetup.com/pythonhug/
+* Taichung.py: https://www.facebook.com/groups/780250978715991/
+* 南投PY: https://www.facebook.com/南投python-113209870215893/
+* Tainan.py: https://www.meetup.com/Tainan-py-Python-Tainan-User-Group/
+* Kaohsiung.py: https://www.facebook.com/groups/kaohsiungpy/
+* Hualien.py: http://www.meetup.com/Hualien-Py/
+
+Country-wide user groups:
+* PyLadies Taiwan: https://tw.pyladies.com/
+
+### Python Taiwan Steering Council
+
+This website is run by the Python Taiwan Steering Council (PTSC), a team beyond
+PyCon Taiwan and to complement it.
+
+One of the major responsibilities of PTSC is to coordinate the collaboration
+between [Open Culture Foundation (OCF)](https://ocf.tw/) and the Taiwan Python
+community, including its largest event PyCon Taiwan.  OCF and PyCon Taiwan have
+been working together for a long time, since [the beginning of OCF in
+2014](https://ocf.tw/about/).  In 2016, a special team, Python Task Force
+(PTF), is built to formalize the communication between OCF and PyCon Taiwan.
+Since then, the Taiwan Python community have developed well beyond what PyCon
+Taiwan or PTF can effectively help.
+
+In response to the new need, PTF started to reorganize itself into PTSC.  On
+2nd November, 2019, PTF and active community members Yung-Yu Chen, Keith Yang,
+TsungWei (marr) Hu, Tzer-jen Wei, Wen-Jet "Peterwolf" Wang, Lloyd Huang,
+Tzu-Ping Chung, Jian-Ding "Tim" Chen, and Taihsiang Ho, met in Taipei and put
+together an initial plan for PTSC.
+
+PTSC is to advance and support the community.  PyCon Taiwan was started with a
+similar goal but as a conference, the organization is not well suitable for
+longer-term planning.  PTSC will fill in the gap and work with every Python
+programmer in the community.
+
+The organization of PTSC is still rough.  There are 6 councilors in total.  5
+of them are required to attend meetings and vote, and the 6th councilor is the
+bursar.  A clear organization is required to help the community.  It is the
+major goal in this year to build such organization, and the first step is to
+conclude the bylaw.
+
+#### Councilors of PTSC
+
+Meeting members:
+
+* Yung-Yu Chen
+* TsungWei (marr) Hu
+* Tzer-jen Wei
+* Lloyd Huang
+* Wen-jet (PeterWolf) Wang
+
+Bursar:
+
+* Jian-Ding (Tim) Chen
