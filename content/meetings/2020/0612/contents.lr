@@ -1,0 +1,69 @@
+title: PTSC meeting 2020/06/12
+---
+body:
+
+# PTSC 2020 June Meeting
+
+* Date: Friday, 12th June, 2020
+* Time: 20:00 -- 21:00 Taiwan time
+* Location: (zoom link) https://us02web.zoom.us/j/7069116569?pwd=MUVFNWlQNTFGdkNrT1JNMkZUWnFqZz09
+* Attendees:
+    * Yung-Yu Chen
+    * Joe
+    * PeterWolf
+    * Tzer-jen Wei
+    * Lloyd Huang
+    * TsungWei Hu
+    * Tim Chen (timchen119)
+
+## Async discussions
+
+* Github issue: https://github.com/pycontw/python.tw/issues/16
+* Telegram: https://t.me/pytsc
+* HackMD: https://hackmd.io/R0FJSnx-R2uZporcgWM8aw
+
+
+## Agenda
+
+* {5 min, **YC**} Review action items from the last meeting: https://python.tw/meetings/2020/0515/
+    * Respond OCF eID legislation support request: done. (https://groups.google.com/d/msg/pytwsc/FrFRX8lk9Is/wM6_c0AeBwAJ)
+    * Inquire PSF for PyCon trademark registration in Taiwan: confirmation in progress. (https://groups.google.com/d/msg/pytwsc/5k2oZkD9PoU/4URDJ-WGBAAJ)
+* {10 min, Joe} Comments from PyConTW chair Joe
+    *  Need PTSC: Review and revise CoC
+    *  Maybe need your help in the future:
+        *  Live streaming events
+            *  Python NPF 百香果 x 南投py
+            *  Taipei.py 2020 六月實體聚會 + PyConTW 線上直播
+            *  TBD
+        *  SpeakerPanda
+            *  WIP
+* {5 min, **YC**, Joe} [PyConTW20 community track](https://docs.google.com/document/d/18svVHnANL8mDm-QhfNe8Ev5HMxf2ZepJESIJptBxfCM/edit?usp=sharing) aftermath: things to happen after the conference.
+* {5 min, **YC**} Review PTSC bylaw draft.
+
+## Minutes
+
+* [**YC**] Yung-Yu collects PyCon Taiwan 2020 logo design and pass to PSF trademark committee for review.
+* [Joe] Review CoC.
+    * [**Peter**] What is the reason to review CoC?
+    * [Joe] How to promote CoC?
+    * [**tjw**] To enforce CoC, we can list the groups who follow it to a list of PTSC/PythonTW.
+    * [**tjw**] Do we need to promote CoC?
+    * [**Peter**] There is not motivation identified for groups to follow or disfollow CoC.
+    * [**tjw**] A CoC can set a good guideline to resolve issues in groups / community.
+    * [**YC**] The entity to promote or enforce CoC may be PyConTW or PTSC.
+    * [**tjw**] We may communicate with local groups for their awareness of PyConTW/PTSC CoC.
+    * [**Peter**] Show local groups' names or logo/links on our CoC page showing that these groups are willing to follow the document.
+    * [**lloyd**] CoC should be for internal requirements, not external.
+    * [Joe] PyConTW 2020 may choose to execute CoC themselves.
+* [Joe] Will hold monthly online meetup until PyCon Taiwan.
+    * [**YC**] We may consider to name the series of online Python events as passion fruit.
+    * [**Peter**] Podcast or streaming may be a way to develop the passion fruit 'channel'.
+    * [Joe] It is not known whether or not PTSC needs to get involved.
+    * [Joe] The idea of passion fruit is to connect town-wise communities.
+    * [**lloyd**] The copyright conscentment and documents will be needed for online events.
+    * [**marr**] reference DjangoCon CoC https://2019.djangocon.eu/conduct/ What can happen if the CoC is violated
+* [Joe] Speaker delivery may happen with travel reimbursement.
+* [**YC**] PTSC bylaw draft [in progress](https://docs.google.com/document/d/13GDk6TiZW7qYGXZIY00uXIkKaCmWy9ozJ1dMNrYM37c/edit).
+    * [**Peter**] We do not make segmentation fault in the first place.
+    * [Joe] The draft should be available in 2 weeks.
+* Next meeting is set on 10th July.
