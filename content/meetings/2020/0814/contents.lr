@@ -1,0 +1,34 @@
+title: PTSC meeting 2020/08/14
+---
+body:
+
+# PTSC 2020 August Meeting
+
+* Date: Friday, 14th August, 2020
+* Time: 20:00 -- 21:00 Taiwan time
+* Location: (zoom link) https://us02web.zoom.us/j/83281512748?pwd=QTFxMzd1bnUvMTdQcmZCVm9heUU1dz09
+* Attendees:
+  * **yyc**
+  * **lloyd**
+  * **tjw**
+  * **peterwolf**
+  * **marr**
+
+## Async discussions
+
+* Github issue: https://github.com/pycontw/python.tw/issues/19
+* Telegram: https://t.me/pytsc
+* Discord: https://discord.gg/nWGsqBE
+* HackMD: https://hackmd.io/J6mAU2LKRU2g6eCx6J87Pg
+
+
+## Agenda
+
+* {20 mins, **yyc**} Review PTSC bylaw draft for the second time: https://docs.google.com/document/d/13GDk6TiZW7qYGXZIY00uXIkKaCmWy9ozJ1dMNrYM37c/edit
+
+## Minutes
+
+* {**peterwolf**} After we port the bylaws to ptsc website (its github), we should publish and request for review.
+  * {**marr**} We can publish at OCF where we also announced the formation of PTSC.
+* {**tjw**} Did PyData (TW) contact us or want any involvement from PTSC?
+  * {**yyc**} yyc has discussed with Theon and they don't seem to need help from PTSC.
