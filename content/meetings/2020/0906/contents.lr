@@ -1,0 +1,30 @@
+title: PTSC meeting 2020/09/06
+---
+body:
+
+# PTSC 2020 September Meeting
+
+###### tags: `meeting`
+
+* Date: Sunday, 6th September, 2020
+* Time: 12:00 -- 13:00 Taiwan time
+* Location: Multifunction room, International Conference Center, NCKU (PyConTW 2020)
+* Attendees:
+    * **yyc**
+    * **marr**
+    * **tjwei**
+
+## Async discussions
+
+* Discord: https://discord.gg/nWGsqBE
+* HackMD: https://hackmd.io/foZe7mv0TS-K2hmSzmf3eg
+
+
+## Agenda
+
+* {20 mins, **yyc**} File a github issue after reviewing PTSC bylaw draft: https://docs.google.com/document/d/13GDk6TiZW7qYGXZIY00uXIkKaCmWy9ozJ1dMNrYM37c/edit
+
+## Minutes
+
+* {**yyc**, **tjwei**} We should file a github issue and migrate the PTSC bylaw draft from Google doc to python.tw website github.
+    * {**yyc**} If we use Github to track future change, we need a separate branch for the bylaw, because bylaw need PTSC approval before being made effective.
